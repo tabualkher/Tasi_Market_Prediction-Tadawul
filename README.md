@@ -1,4 +1,3 @@
-# Phase 1 MVP
 ## Saudi AI Investment Copilot
 
 ### Stack
